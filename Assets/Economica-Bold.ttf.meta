@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5ada7cec45b2fc40a86f7f99f034c77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Economica
+  fontNames:
+  - Economica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30d8c29027f6c8741acbdef82e72f873, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
